@@ -1,6 +1,9 @@
 # avl-tree dictionary
 A dictionary is implemented by avl tree
-the program was built using c language. It has straight forward options and it is easy to be used 
+there is no need to install anything , you can run it with any C comlpiler.
+make sure the the file contains data is in the same directory or write full directory to be accessed correctly.
+
+the program was built using C language. It has straight forward options and it is easy to be used 
 the main menu has 11 options :
 1  ** Read data From file (words.txt) 
  2  ** User add a new word to the dictionay 
@@ -13,4 +16,5 @@ the main menu has 11 options :
 9  ** Save the words to the file (dictionary.data)
 10 ** Go to Hash function 
 0  ** EXIT 
+
 
